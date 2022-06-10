@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @namburumouli
-- 👀 I’m interested in android app development 
+- 👀 I’m interested in front-end and back-end development 
 - 🌱 I’m currently learning android app development 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 reach me ...namburu.mouli@gmail.com
 
 <!---
 namburumouli/namburumouli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
